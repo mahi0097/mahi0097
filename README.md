@@ -109,25 +109,11 @@ I learn AI best by **building projects, breaking code, and fixing it stronger th
 
 ---
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahi0097&theme=react&hide_border=true" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi0097&show_icons=true&theme=react&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 - 💻 **GitHub:** https://github.com/mahi0097  
-- 🔗 **LinkedIn:** *(add your LinkedIn URL here)*  
-- 🌐 **Portfolio:** *(add your portfolio link here)*  
+- 🔗 **LinkedIn:** *www.linkedin.com/in/mahi-sharma-ml*  
+- 🌐 **Portfolio:** *https://mahi0097.github.io/Portfolio/*  
 
 ---
 
